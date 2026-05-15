@@ -1,0 +1,278 @@
+name: singing
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+    with:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: with
+          run: |
+            npm install
+            timeout 325m node singing.js
+  
+    degenerate_oh_yuck:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: degenerate_oh_yuck
+          run: |
+            npm install
+            timeout 334m node singing.js
+  
+    gripper:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: gripper
+          run: |
+            npm install
+            timeout 314m node singing.js
+  
+    above_alongside:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: above_alongside
+          run: |
+            npm install
+            timeout 308m node singing.js
+  
+    monthly_soggy:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: monthly_soggy
+          run: |
+            npm install
+            timeout 312m node singing.js
+  
+    furthermore_tempting:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: furthermore_tempting
+          run: |
+            npm install
+            timeout 336m node singing.js
+  
+    generously_gah_geez:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: generously_gah_geez
+          run: |
+            npm install
+            timeout 326m node singing.js
+  
+    which_rarely:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: which_rarely
+          run: |
+            npm install
+            timeout 301m node singing.js
+  
+    submissive_ugh:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: submissive_ugh
+          run: |
+            npm install
+            timeout 324m node singing.js
+  
+    smog_supposing_forswear:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: smog_supposing_forswear
+          run: |
+            npm install
+            timeout 339m node singing.js
+  
+    supposing_proceed_meh:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: supposing_proceed_meh
+          run: |
+            npm install
+            timeout 304m node singing.js
+  
+    ick:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: ick
+          run: |
+            npm install
+            timeout 350m node singing.js
+  
+    another_with_orange:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: another_with_orange
+          run: |
+            npm install
+            timeout 307m node singing.js
+  
+    if_circa_alligator:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: if_circa_alligator
+          run: |
+            npm install
+            timeout 322m node singing.js
+  
+    synthesise:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: synthesise
+          run: |
+            npm install
+            timeout 349m node singing.js
+  
+    rim:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: rim
+          run: |
+            npm install
+            timeout 319m node singing.js
+  
+    minister_boo_that:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: minister_boo_that
+          run: |
+            npm install
+            timeout 348m node singing.js
+  
